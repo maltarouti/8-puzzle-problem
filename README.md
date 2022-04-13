@@ -3,9 +3,9 @@
 ![image](https://user-images.githubusercontent.com/63660298/162525325-370d69dd-591b-4a6d-971d-a91db7a50694.png)
 
 # Introduction
-The 8 Puzzle, often known as the sliding puzzle, is a classic puzzle that consists of 9 tiles with three rows and three columns. The puzzle consists of 8 tiles with numbers ranging from 1 to 8 and one empty tile. The solution is to move the tiles around into different spots to have the numbers displayed same as you goal state.
+The 8 Puzzle, often known as the sliding puzzle, is a classic puzzle that consists of 9 tiles with three rows and three columns. The puzzle consists of 8 tiles with numbers ranging from 1 to 8 and one empty tile. The solution is to move the tiles around into different spots to have the numbers displayed same as you goal state. In this project, we will attempt to solve this puzzle using search algorithms and show a basic comparison between breadth-first search and A star algorithms.
 
-# Algorithm
+# Algorithms
 1. Breadth-first search (BFS)
 
 Breadth-first search is a uniformed algorithm for traversing, searching in a tree or a graph. BFS starts from the tree root and explores all the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level. This search algorithm uses a queue data structure to explore the undiscovered nodes in order.
