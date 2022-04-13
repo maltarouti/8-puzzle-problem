@@ -1,4 +1,4 @@
-# 8-Puzzle-Problem
+# 8 Puzzle Problem
 
 ![image](https://user-images.githubusercontent.com/63660298/162525325-370d69dd-591b-4a6d-971d-a91db7a50694.png)
 
